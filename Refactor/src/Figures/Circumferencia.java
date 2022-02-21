@@ -1,5 +1,6 @@
 package Figures;
 
+// clase Circumferencia
 public class Circumferencia {
 	private double ràdio;
 	private String color;
